@@ -1,5 +1,5 @@
 # Sentiment-Analysis-on-PeduliLindungi-Application-User-Reviews
-This repository contains Python code for conducting Sentiment Analysis on PeduliLindungi Application Bahasa Users Reviews.
+This repository contains Python code for conducting Sentiment Analysis on PeduliLindungi Application Users Reviews in Bahasa Indonesia.
 
 In general, the steps for conducting Sentiment Analysis are:
 1)	Data collection. 
